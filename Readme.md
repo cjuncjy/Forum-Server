@@ -1,5 +1,8 @@
 ## 项目概述
+> 本项目是学习 vue 和 node 过程中自己练手的一个博客论坛 demo
 
+[管理系统地址戳这里](https://github.com/cjuncjy/Forum-Admin)  
+[前台页面地址戳这里](https://github.com/cjuncjy/Forum-Front)
 ### 项目初始准备
 
 1.middleware 文件夹下面的 nodemailer 文件，需要填写自己的邮箱和申请的授权码
