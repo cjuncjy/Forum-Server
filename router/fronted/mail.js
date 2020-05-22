@@ -26,7 +26,7 @@ router.get("/sendEmail", async (req, res) => {
   // 发短信
   let mail = {
     // 发件人
-    from: "<cjuncjy@163.com>",
+    from: "<xxx@163.com>",
     // 主题
     subject: "在线学习平台注册邮箱验证码", //邮箱主题
     // 收件人
