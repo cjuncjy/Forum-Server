@@ -59,7 +59,7 @@ http {
 4.修改项目 utils 文件夹里面的 constant 里面的 upload 地址：
 
 ```
-const UPLOAD_PATH = "填上你nginx反向代理的上传地址";
+const UPLOAD_PATH = "填上你上面新建的upload文件夹的地址";
 ```
 
 ### 项目启动
